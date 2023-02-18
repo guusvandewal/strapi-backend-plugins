@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_shared_component_paragraphs",
+  "info": {
+    "displayName": "Component Paragraph"
+  },
+  "options": {},
+  "attributes": {
+    "Heading": {
+      "type": "string"
+    },
+    "Text": {
+      "type": "richtext"
+    }
+  }
+}
