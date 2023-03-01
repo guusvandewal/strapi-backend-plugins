@@ -1,18 +1,15 @@
 {
-  "collectionName": "components_shared_component_paragraphs",
+  "collectionName": "components_shared_dyns",
   "info": {
-    "displayName": "Component Paragraph",
+    "displayName": "dyn",
     "description": ""
   },
   "options": {},
   "attributes": {
-    "Heading": {
+    "Head": {
       "type": "string"
     },
-    "Text": {
-      "type": "richtext"
-    },
-    "Images": {
+    "Medic": {
       "allowedTypes": [
         "images",
         "files",
