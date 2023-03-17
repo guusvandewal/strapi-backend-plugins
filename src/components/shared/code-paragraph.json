@@ -1,0 +1,29 @@
+{
+  "collectionName": "components_shared_code_paragraphs",
+  "info": {
+    "displayName": "Code Paragraph",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Code": {
+      "type": "text"
+    },
+    "Type": {
+      "type": "enumeration",
+      "enum": [
+        "tsx",
+        "jsx",
+        "php",
+        "graphql",
+        "js",
+        "twig",
+        "html",
+        "scss",
+        "less",
+        "yaml",
+        "css"
+      ]
+    }
+  }
+}

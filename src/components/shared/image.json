@@ -1,15 +1,11 @@
 {
-  "collectionName": "components_shared_dyns",
+  "collectionName": "components_shared_images",
   "info": {
-    "displayName": "dyn",
-    "description": ""
+    "displayName": "Image"
   },
   "options": {},
   "attributes": {
-    "Head": {
-      "type": "string"
-    },
-    "Medic": {
+    "Image": {
       "allowedTypes": [
         "images",
         "files",
