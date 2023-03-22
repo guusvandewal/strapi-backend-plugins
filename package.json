@@ -1,12 +1,12 @@
 {
   "dependencies": {
     "@strapi/plugin-graphql": "^4.0.0",
+    "@strapi/plugin-i18n": "4.8.2",
+    "@strapi/plugin-users-permissions": "4.8.2",
+    "@strapi/strapi": "4.8.2",
+    "better-sqlite3": "8.0.1",
     "lodash.set": "^4.3.2",
-    "mime-types": "^2.1.27",
-    "@strapi/strapi": "4.6.1",
-    "@strapi/plugin-users-permissions": "4.6.1",
-    "@strapi/plugin-i18n": "4.6.1",
-    "better-sqlite3": "8.0.1"
+    "mime-types": "^2.1.27"
   },
   "name": "backend",
   "private": true,
@@ -20,7 +20,7 @@
   },
   "devDependencies": {},
   "author": {
-    "name": "A Strapi developer"
+    "name": "guusvandewal.nl"
   },
   "strapi": {
     "uuid": "2398f012-718c-4221-b8c8-9096dd500700",
